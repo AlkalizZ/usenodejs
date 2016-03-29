@@ -235,5 +235,5 @@ app.post('/list', function (req, res) {
 });
 
 
-app.listen(3999);
+app.listen(80);
 console.log('开启监听');
