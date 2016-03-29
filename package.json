@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/AlkalizZ/useNodejs/issues"
   },
-  "homepage": "https://github.com/AlkalizZ/useNodejs#readme"
+  "homepage": "https://github.com/AlkalizZ/useNodejs#readme",
+  "dependencies": {
+    "multer": "^1.1.0",
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4"
+  }
 }
